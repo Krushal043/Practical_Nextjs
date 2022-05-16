@@ -1,0 +1,107 @@
+.evt{
+  display:flex;
+  height: 100%;
+  width: 100%;
+}
+.event {
+  height: 25rem;
+  width: 30%;
+  padding: 13px;
+  margin-left:1%;
+  margin-bottom: 1.5%;
+  box-shadow: inset 10px 10px 10px #00000020, inset -8px -8px 8px #ffffff;
+  border: 0.5px solid black;
+  border-radius: 20px;
+  background-color: whitesmoke;
+  transition: transform 0.5s ease;
+}
+
+.eventdetails{
+  height: 25rem;
+  width: 67%;
+  padding: 13px;
+  margin-left:1%;
+  box-shadow: inset 10px 10px 10px #00000020, inset -8px -8px 8px #ffffff;
+  border: 0.5px solid black;
+  border-radius: 20px;
+  background-color: whitesmoke;
+  transition: transform 0.5s ease;
+}
+
+.img {
+  margin-top:1%;
+}
+
+.info {
+  flex: 2;
+  text-align: center;
+  margin-top: 13%;
+}
+
+@media (max-width: 600px) {
+  .event {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .info {
+    margin-bottom: 20px;
+  }
+}
+
+.evtbtn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+
+.evtbtn button {
+  height: 50px;
+  width: 110%;
+  align-items: center;
+  margin-left: -50%;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.evt {
+  padding-bottom: 0.01%;
+}
+
+.edit{
+  height: 50px;
+  width: 9%;
+  margin-left: 60%;
+}
+
+.edit button {
+  color:lightskyblue;
+  background-color:black;
+}
+
+.edit button:hover {
+  box-shadow: 8px -8px 15px 0 #0084ff, -8px 8px 15px 0 #0047b3;
+}
+
+.delete{
+  height: 50px;
+  width: 9%;
+}
+
+.delete button {
+  color:red;
+  background-color:black;
+}
+
+.delete button:hover{
+  box-shadow: 8px -8px 15px 0 #fa665b, -8px 8px 15px 0 #b30000;
+}
+
+.back{
+  color:rgb(28, 166, 252);
+}
+
+.back:hover{
+  color:blue;
+}

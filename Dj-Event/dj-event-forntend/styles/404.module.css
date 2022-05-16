@@ -1,0 +1,8 @@
+.error{
+    text-align: center;
+    margin-top:2%;
+}
+
+.error a:hover{
+color:blue;
+}

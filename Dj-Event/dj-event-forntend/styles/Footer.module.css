@@ -1,0 +1,19 @@
+.footer {
+  text-align: center;
+  color: white;
+  height: 60px;
+  width: 100%;
+  background:linear-gradient(-45deg,#57cfb0,#2ab5d3);
+}
+
+.footer p {
+  margin: 10px 0;
+}
+
+.footer a {
+  color: black;
+}
+
+.footer a:hover {
+  color: blue;
+}

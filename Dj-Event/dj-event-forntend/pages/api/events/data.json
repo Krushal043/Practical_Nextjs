@@ -1,0 +1,76 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Pool Party with DJ Zalak",
+      "eventId": "zalak-1",
+      "venue": "India",
+      "address": "Surat",
+      "performance": "Dj Zalak",
+      "date": "March 29,2022",
+      "time": "10:00 PM EST",
+      "description": "90's and 20's song with DJ Zalak in enjoy the songs with Couple dance",
+      "image": "/images/sample/event1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Night Party with DJ D@vil",
+      "eventId": "devil-1",
+      "venue": "India",
+      "address": "Pune",
+      "performance": "Dj D@vil",
+      "date": "March 31,2022",
+      "time": "12:00 PM EST",
+      "description": "Justin song with DJ D@vil in enjoy the songs with Couple dance",
+      "image": "/images/sample/event2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Brithday Party with DJ Vidhi",
+      "eventId": "vidhi-1",
+      "venue": "India",
+      "address": "Ahemdabad",
+      "performance": "Dj Vidhi",
+      "date": "June 1,2022",
+      "time": "8:00 PM EST",
+      "description": "Party song with DJ Vidhi in enjoy the songs with Couple dance",
+      "image": "/images/sample/event3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Pool Party with DJ Zalak",
+      "eventId": "zalak-2",
+      "venue": "India",
+      "address": "Delih",
+      "performance": "Dj Zalak",
+      "date": "June 5,2022",
+      "time": "12:00 PM EST",
+      "description": "Party song with DJ Zalak in enjoy the songs with Couple dance",
+      "image": "/images/sample/event4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Pool Party with DJ Zalak & DJ D@vil",
+      "eventId": "devil-2",
+      "venue": "India",
+      "address": "Panjab",
+      "performance": "Dj Zalak & DJ D@vil",
+      "date": "June 9,2022",
+      "time": "10:00 PM EST",
+      "description": "Panjabi song with DJ Zalak & DJ D@vil in enjoy the songs with Couple dance",
+      "image": "/images/sample/event5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Marrige Party with DJ Vidhi",
+      "eventId": "vidhi-2",
+      "venue": "India",
+      "address": "Keral",
+      "performance": "Dj Vidhi",
+      "date": "June 19,2022",
+      "time": "7:00 PM EST",
+      "description": "Marrige song with DJ Vidhi in enjoy the songs with Couple dance",
+      "image": "/images/sample/event6.jpg"
+    }
+  ]
+}

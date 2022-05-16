@@ -1,0 +1,30 @@
+.container {
+  width: 100%;
+  margin-top:0.5%;
+  background:linear-gradient(-45deg,rgba(143, 64, 248, 0.5),#8a39e1);
+}
+.evt{
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+}
+
+.btn{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn button{
+  height: 50px;
+  width: 110%;
+  align-items: center;
+  margin-left: -50%;
+  background-color: rgb(10, 142, 250);
+  color: black;
+  border-radius:30px;
+  cursor: pointer;
+}
+
+.btn button:hover{
+  box-shadow: 8px -8px 15px 0 #414645, -8px 8px 15px 0 #bec3c4;
+}
